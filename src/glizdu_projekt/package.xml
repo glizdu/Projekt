@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package>
+  <name>glizdu_projekt</name>
+  <version>0.0.0</version>
+  <description>The glizdu package</description>
+
+  <maintainer email="glizdu@todo.todo">glizdu</maintainer>
+  <license>TODO</license>
+
+  	<buildtool_depend>catkin</buildtool_depend>
+
+	
+	<build_depend>roscpp</build_depend>
+	<build_depend>move_base</build_depend>
+	<run_depend>move_base</run_depend>
+	<build_depend>openni2_launch</build_depend>
+	<run_depend>openni2_launch</run_depend>
+	<build_depend>turtlebot_bringup</build_depend>
+	<run_depend>turtlebot_bringup</run_depend>
+  <export>
+
+  </export>
+</package>

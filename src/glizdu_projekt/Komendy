@@ -1,0 +1,13 @@
+roscore
+// włącza fake_kinecta, gazebo wraz z robotem
+roslaunch turtlebot_gazebo turtlebot_world.launch 
+
+// uruchomienie gmapping
+// trzeba zmienić źródło na source glizdu/devel/setup.bash
+roslaunch glizdu_projekt projekt.launch
+
+//wizualizacja
+roslaunch turtlebot_rviz_launchers view_navigation.launch
+
+//TODO jeżeli użyjemy teleop do tworzenia mapy, po wyłączeniu node'a należy wyzerować parametry robota
+
