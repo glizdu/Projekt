@@ -1,1 +1,7 @@
-Projekt planowanie ruchu robota z kamerą kinect
+Projekt planowanie ruchu robota w przestrzeni 2D z kamerą kinect
+
+Działająca nawigacja i planowanie w symulacji
+Wukorzystano gmapping oraz algorytm A*
+
+TO DO:
+przeniesienie systemu do robota
