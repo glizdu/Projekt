@@ -1,0 +1,8 @@
+prefix=/home/glizdu/Pulpit/turtlebot/install
+
+Name: turtlebot_msgs
+Description: Description of turtlebot_msgs
+Version: 2.2.1
+Cflags: -I/home/glizdu/Pulpit/turtlebot/install/include
+Libs: -L/home/glizdu/Pulpit/turtlebot/install/lib 
+Requires: std_msgs sensor_msgs std_srvs message_runtime
