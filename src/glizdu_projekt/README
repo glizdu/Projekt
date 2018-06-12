@@ -1,7 +1,0 @@
-Aby uruchomić wszystkie niezbędne węzły, należy wykorzystać plik glizdu.launch.
-
-W przypadku problemów, zajrzyj do pliku "Komendy do uruchomienia".
-
-Do sterowania robotem można wykorzystać komendę:
-roslaunch turtlebot_teleop keyboard_teleop.launch 
-Aby działała nawigacja, węzeł ten musi być wyłączony.
