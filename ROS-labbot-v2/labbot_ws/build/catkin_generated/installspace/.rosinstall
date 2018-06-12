@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/labbot/ROS-labbot-kalkowski-staszak/labbot_ws/install/setup.sh

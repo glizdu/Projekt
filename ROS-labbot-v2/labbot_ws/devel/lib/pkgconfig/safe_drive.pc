@@ -1,0 +1,8 @@
+prefix=/home/labbot/ROS-labbot-kalkowski-staszak/labbot_ws/devel
+
+Name: safe_drive
+Description: Description of safe_drive
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/labbot/ROS-labbot-kalkowski-staszak/labbot_ws/devel/lib -lsafe_drive_nodelet
+Requires: geometry_msgs roscpp rospy std_msgs nodelet

@@ -1,0 +1,8 @@
+prefix=/home/labbot/ROS-labbot-kalkowski-staszak/labbot_ws/install
+
+Name: command_mux
+Description: Description of command_mux
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/labbot/ROS-labbot-kalkowski-staszak/labbot_ws/install/lib -lcommand_mux_nodelet
+Requires: geometry_msgs roscpp rospy nodelet

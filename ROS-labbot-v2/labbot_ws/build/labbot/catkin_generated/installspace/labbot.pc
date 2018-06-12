@@ -1,0 +1,8 @@
+prefix=/home/labbot/ROS-labbot-kalkowski-staszak/labbot_ws/install
+
+Name: labbot
+Description: Description of labbot
+Version: 0.0.0
+Cflags: -I/home/labbot/ROS-labbot-kalkowski-staszak/labbot_ws/install/include
+Libs: -L/home/labbot/ROS-labbot-kalkowski-staszak/labbot_ws/install/lib -llabbot -lnodelet
+Requires: message_runtime nodelet

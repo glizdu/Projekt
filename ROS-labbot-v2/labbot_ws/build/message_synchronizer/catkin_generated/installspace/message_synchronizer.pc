@@ -1,0 +1,8 @@
+prefix=/home/labbot/ROS-labbot-kalkowski-staszak/labbot_ws/install
+
+Name: message_synchronizer
+Description: Description of message_synchronizer
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/labbot/ROS-labbot-kalkowski-staszak/labbot_ws/install/lib 
+Requires: 
