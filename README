@@ -3,5 +3,15 @@ Projekt planowanie ruchu robota w przestrzeni 2D z kamerą kinect
 Działająca nawigacja i planowanie w symulacji
 Wykorzystano gmapping oraz algorytm A*
 
+Do działania symulacji niezbędna jest instalacja:
+-ROS kinetic full desktop
+-turtlebot
+-turtlebot gazebo
+-turtlebot rviz launcher
 
+Aby skorzystać z rozwiązania na robocie:
+-Zainstaluj ROS kinetic
+-Skopiuj repozytorium
+-Dodaj źródło labbot
+-Uruchom plik map_service_glizdu.launch
 
